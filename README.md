@@ -82,11 +82,11 @@ For **dark mode** support on github, use this [special syntax](https://docs.gith
 
 **local**
 
-```
+
 npm install
 
 npm run dev:demo
-```
+
 
 ## Implementation
 
